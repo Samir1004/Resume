@@ -1,6 +1,6 @@
-# Resume - SAMIR GOSWAMI
+# RESUME - SAMIR GOSWAMI
 
-👨‍💻 **Aspiring Computer Science Engineer | Passionate Developer | Tech Enthusiast**
+👨‍💻 **Computer Science Engineer | Passionate Developer | Tech Enthusiast**
 
 📍 Bhabanipur, Nandakumar, West Bengal  
 📞 +91-7548957935  
