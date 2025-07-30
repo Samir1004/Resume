@@ -1,4 +1,4 @@
-# Samir Goswami 
+# Samir Goswami - Resume
 
 👨‍💻 **Aspiring Computer Science Engineer | Passionate Developer | Tech Enthusiast**
 
