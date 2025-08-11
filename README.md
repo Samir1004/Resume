@@ -29,7 +29,7 @@
 
 ## 💼 Internships
 
-### 1STOP, Bengaluru – *Cyber Security Intern* (Jun–Jul 2025)
+### 1STOP, Bengaluru – *Cyber Security Intern* (Jun–Aug 2025)
 - Built a customer support chatbot using **Python** and **GPT**
 - Applied **NLP techniques** to ensure relevant responses
   
@@ -55,7 +55,7 @@
 
 ## 🛠️ Skills
 
-- **Languages & Tools**: C, Python, SQL, HTML, MS Excel
+- **Languages & Tools**: Java, Python, SQL, HTML, MS Excel
 - **Certifications**: Generative AI, Data Analysis (Coursera), Core Java Programming
 - **Languages Spoken**: English, Hindi, Bengali
 
