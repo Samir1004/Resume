@@ -23,7 +23,7 @@
 ## 🏆 Achievements
 
 - 🛰️ Participation Certificate in ISRO’s Chandrayaan-3 Quiz 2023 – MyGov
-- 📈 WBJEE 2022 Rank: **18033** out of 100,000 candidates
+
 
 ---
 
