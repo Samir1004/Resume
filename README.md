@@ -22,7 +22,6 @@
 
 ## 🏆 Achievements
 
-- 🥈 2nd Prize in Coding Competition – LearnTheta
 - 🛰️ Participation Certificate in ISRO’s Chandrayaan-3 Quiz 2023 – MyGov
 - 📈 WBJEE 2022 Rank: **18033** out of 100,000 candidates
 
@@ -30,10 +29,10 @@
 
 ## 💼 Internships
 
-### LearnTheta, Bengaluru – *Chatbot Development Intern* (Jun–Jul 2023)
+### 1STOP, Bengaluru – *Cyber Security Intern* (Jun–Jul 2025)
 - Built a customer support chatbot using **Python** and **GPT**
 - Applied **NLP techniques** to ensure relevant responses
-- Automated handling of 10,000+ queries per month
+  
 
 ### FitWatch – *Social Media Marketing Intern* (May 2022)
 - Designed and posted 30+ Instagram creatives
