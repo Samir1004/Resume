@@ -1,6 +1,6 @@
 # RESUME - SAMIR GOSWAMI
 
-👨‍💻 **Computer Science Engineer | Passionate Developer | Tech Enthusiast**
+👨‍💻 **Computer Engineer | Passionate Developer | Tech Enthusiast**
 
 📍 Bhabanipur, Nandakumar, West Bengal  
 📞 +91-7548957935  
@@ -12,9 +12,9 @@
 
 ## 🎓 Academic Qualifications
 
-| Year  | Degree/Examination         | Institution                                       | Score     |
+| Year  | Degree/Examination         | Institution                                      | Score     |
 |-------|----------------------------|--------------------------------------------------|-----------|
-| 2026  | B.Tech in Computer Science | College of Engineering & Management, Kolaghat   | 7.35 CGPA  |
+| 2026  | B.Tech in Computer Science | College of Engineering & Management, Kolaghat    | 7.35 CGPA |
 | 2022  | Class XII (WBCHSE)         | Mahammadpur S.S.S. Niketan                       | 90.6%     |
 | 2020  | Class X (WBBSE)            | Mahammadpur S.S.S. Niketan                       | 89%       |
 
