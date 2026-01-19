@@ -15,8 +15,8 @@
 | Year  | Degree/Examination         | Institution                                      | Score     |
 |-------|----------------------------|--------------------------------------------------|-----------|
 | 2026  | B.Tech in Computer Science | College of Engineering & Management, Kolaghat    | 7.55 CGPA |
-| 2022  | Class XII (WBCHSE)         | Mahammadpur S.S.S. Niketan                       | 90.6%     |
-| 2020  | Class X (WBBSE)            | Mahammadpur S.S.S. Niketan                       | 89%       |
+| 2022  | Class XII (WBCHSE)         | Mahammadpur S.S.S. Niketan                       | 90.60%     |
+| 2020  | Class X (WBBSE)            | Mahammadpur S.S.S. Niketan                       | 89.28%       |
 
 ---
 
@@ -47,8 +47,8 @@
 - Achieved 87% accuracy
 - Deployed a real-time web app using **Flask**
 
-### Mini Project – *Personal Expense Tracker* (2023)
-- Created a budget tracker with **Python**
+### Mini Project – *A Sweetshop Website Design* (2023)
+- Created frontend design of a sweetshop oder system using **HTML**, **CSS**
 - Enabled visualization of spending patterns
 
 ---
