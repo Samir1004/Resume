@@ -48,8 +48,8 @@
 - Deployed a real-time web app using **Flask**
 
 ### Mini Project – *A Sweetshop Website Design* (2023)
-- Created frontend design of a sweetshop oder system using **HTML**, **CSS**
-- Enabled visualization of spending patterns
+- Created frontend design of a sweetshop oder system using **HTML**, **CSS**.
+- Enabled customer to send the oders for their fevourite sweets.
 
 ---
 
